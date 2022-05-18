@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bunnybuttscienceland
+- 👋 Hi, I’m @bunnysteps
 - 👀 I’m interested in automating as much boring stuff as possible
 - 🌱 I’m currently learning ocaml and tailwindcss/web stuff
 - 💞️ I’m looking to collaborate on things that aren't too hard.
